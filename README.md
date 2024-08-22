@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CsabiTube</h1>
-<h3 align="center">A hungarian youtuber, and streamer.</h3>
+<h3 align="center">A hungarian youtuber/streamer, and beginner programmer.</h3>
 
 - 📫 Reach me on Discord: @csabitubehu
 
